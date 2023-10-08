@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Logesh-waran2003\&rank_icon=github\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 <!--
 **Logesh-waran2003/Logesh-waran2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
