@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Logeshwaran</h1>
-<h3 align="center">I’m a java programmer, a frontend developer, and a tech enthusiast!</h3>
+<h3 align="center">I’m a java programmer, a fullstack developer, and a tech enthusiast!</h3>
+
+
+<img align="right" alt="animated_picture" width="275" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=logesh-waran2003&label=Profile%20views&color=0e75b6&style=flat" alt="neautrino" /> </p>
+
 
 - 🌱 I’m currently learning **Typescript**
 
