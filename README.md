@@ -1,3 +1,6 @@
+
+[![An image of @logeshwaran2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/logeshwaran2003)](https://holopin.io/@logeshwaran2003)
+
 <h1 align="center">Hi 👋, I'm Logeshwaran</h1>
 <h3 align="center">I’m a java programmer, a fullstack developer, and a tech enthusiast!</h3>
 
