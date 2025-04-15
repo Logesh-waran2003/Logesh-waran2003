@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logesh-waran2003&label=Profile%20views&color=0e75b6&style=flat" alt="neautrino" /> </p>
 
 
-- 🌱 I’m currently learning **Typescript**
+##- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **full stack web apps!**
 
