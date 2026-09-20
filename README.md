@@ -17,6 +17,11 @@ TypeScript · Python · Node.js · AWS · React · Next.js
 
 ## 🔨 What I'm building
 
+### 🎙 [Tab Audio Recorder](https://github.com/Logesh-waran2003/tab-audio-recorder) — Who said what, without the cloud
+Records any Chrome tab **and** your microphone on separate stereo channels, then runs local Whisper on each one. Other tools guess who spoke from a single mixed track. This one never has to guess. On Google Meet it reads the real names off the page. Nothing is uploaded, no account, no bot joins your call.
+
+![demo](https://raw.githubusercontent.com/Logesh-waran2003/tab-audio-recorder/main/docs/demo.gif)
+
 ### 💓 [Pulse](https://github.com/Logesh-waran2003/pulse) — Terminal companion for Claude Code
 Lives in your Claude Code status bar. Watches all your sessions, tells you to drink water, celebrates when your agent finishes. Built with Python + Claude Code hooks.
 ```bash
