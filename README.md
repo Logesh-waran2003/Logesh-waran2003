@@ -13,10 +13,7 @@ Find me on [X](https://x.com/Logesh236), [LinkedIn](https://linkedin.com/in/loge
 
 ### Products
 
-- **[Finance Tracker](https://github.com/Logesh-waran2003/finance-tracker)** — Daily loan collection for micro-finance: field routes, instalments, penalties, cash reconciliation
-- **[Pandas Kitchen](https://github.com/Logesh-waran2003/pandas-kitchen)** — Restaurant management: POS, kitchen tickets, menu, orders, analytics
-- **[Ganesh Egg Centre](https://github.com/Logesh-waran2003/GaneshEggCentre)** — Wholesale egg supply app with live inventory, billing and delivery ([live](https://ganesh-egg-centre.vercel.app))
-- **[Ganesh Egg Printer](https://github.com/Logesh-waran2003/ganesh-egg-printer)** — Print shop receipts from a phone to a Bluetooth thermal printer ([live](https://ganesh-egg-printer.vercel.app))
+- **[Folio](https://github.com/dev-projects-team/folio)** — Notion-style team docs stored as Markdown in GitHub, with an MCP server so AI agents can read and write them
 - **[Indic Paper Translate](https://github.com/Logesh-waran2003/indic-paper-translate)** — Translate Indian exam papers into Tamil, Hindi and Telugu with IndicTrans2
 - **[Nudge](https://github.com/Logesh-waran2003/ringrr)** — Alarm-grade reminders for Android
 - **[Split Money](https://github.com/Logesh-waran2003/split-money)** — Split shared expenses with friends ([live](https://split-money-kappa.vercel.app))
@@ -27,4 +24,3 @@ Find me on [X](https://x.com/Logesh236), [LinkedIn](https://linkedin.com/in/loge
 - **[lazyClean](https://github.com/Logesh-waran2003/lazyClean)** — Clean up stale git branches, local and remote. Written in Go
 - **[Manga Reader](https://github.com/Logesh-waran2003/manga-reader-extension)** — Chrome extension for auto-scroll and chapter navigation
 - **[LCA Connect SSO](https://github.com/Logesh-waran2003/lca-connect-sso-integration)** — Azure Entra ID + AWS Cognito single sign-on for a call analytics platform
-- **[Hosur Midnight Marathon](https://github.com/Logesh-waran2003/hosur-midnight-marathon)** — Official site for the 2026 race
